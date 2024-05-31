@@ -3,7 +3,6 @@ body {
   background-color: hsl(0, 0%, 100%);
   width: 225px;
   justify-content: center;
-  height: 100vh;
 
   display: flex;
 }
